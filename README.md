@@ -38,3 +38,9 @@ Useful Gradle tasks and flags:
 - `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
 - `lwjgl3:run`: starts the application.
 - `test`: runs unit tests (if any).
+
+## Credits
+
+This project was done by:
+- `--Ever1705`
+- `--CarolinaZaky`
